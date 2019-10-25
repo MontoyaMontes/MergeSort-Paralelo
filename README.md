@@ -1,4 +1,4 @@
-# Practica1Criptografia
+# MergeSort-Paralelo
 
 Montoya Montes Pedro 3219536-2
 
